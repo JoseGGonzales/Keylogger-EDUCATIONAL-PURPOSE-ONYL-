@@ -3,7 +3,7 @@ import requests
 import os
 
 # Discord webhook URL
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1356287907131949066/GG3i6pUf-Cn8LkJnX1XdtJZ-wZ9s3kJsyETqEarKA9fpv_yH8g0qCMc8UBPkPX3vFxm1'
+WEBHOOK_URL = 'your webhook url'
 
 logger = [] 
 
